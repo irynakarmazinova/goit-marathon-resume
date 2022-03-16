@@ -1,0 +1,243 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: #f5f7fa;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.sidebar {
+  background: #1e2939;
+  color: #ffffff;
+  width: 370px;
+  height: 100%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.contacts-container {
+  margin-left: 40px;
+  margin-top: 60px;
+}
+
+.contacts-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+
+.contacts-link-type {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-right: 10px;
+}
+
+.contacts-link {
+  color: #434c5a;
+}
+
+.tech-skills-container {
+  margin-left: 40px;
+  margin-top: 55px;
+}
+
+.tech-skills-type {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+
+.tech-skills-item {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+  padding-left: 20px;
+  color: #ff6b08;
+}
+
+.tech-skills-text {
+  color: white;
+}
+
+.soft-skills-container {
+  margin-left: 40px;
+  margin-top: 50px;
+  margin-bottom: 150px;
+}
+
+.soft-skills-type {
+  margin-bottom: 17px;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.soft-skills-item {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+  padding-left: 17px;
+  color: #ff6b08;
+  padding-bottom: 350px;
+}
+
+.soft-skills-text {
+  color: white;
+}
+
+.wrapper {
+  background: white;
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+
+.about-me-container {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.my-photo {
+  width: 370px;
+}
+
+.info-conteiner {
+  margin-bottom: 65px;
+}
+.profession {
+  font-size: 14px;
+  font-weight: 800;
+  line-height: 24px;
+  margin-bottom: 14px;
+}
+
+.name {
+  font-size: 45px;
+  font-weight: 900;
+  line-height: 89px;
+  margin-bottom: 14px;
+}
+
+.description {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 24px;
+  color: #595959;
+}
+
+.prodjects-conteiner {
+  margin-bottom: 55px;
+}
+
+.about-me-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 15px;
+  margin-top: 45px;
+}
+
+.prodjects-item {
+  font-size: 14px;
+  font-weight: 700;
+  margin-left: 14px;
+}
+
+.prodject-link {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #595959;
+}
+.tech-name {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #595959;
+}
+
+.dots {
+  color: #595959;
+  font-weight: 100;
+}
+
+.Front-End-Developer {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+.manager-company2 {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+.manager-company3 {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+.color-job {
+  color: #ff6b08;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.time-job {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 14px;
+  margin-bottom: 14px;
+  color: #595959;
+  opacity: 0.5;
+}
+
+.management {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.text-job {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 19px;
+  margin-top: 8px;
+}
+
+.colordash {
+  color: #000000;
+  opacity: 1;
+  font-size: 14px;
+  font-weight: 700;
+  padding-left: 4px;
+  padding-right: 4px;
+}
